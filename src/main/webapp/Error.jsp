@@ -5,11 +5,12 @@
 <html>
 <head>
 <title>Error</title>
+ 
 </head>
 <body>
  <center>
-  <h1>Error</h1>
-  <h2><%=exception.getMessage() %><br/> </h2>
+  <h1 class="titleError">Error</h1>
+  <h2 class="messageError"><%=exception.getMessage() %><br/> </h2>
  </center> 
 </body>
 </html>

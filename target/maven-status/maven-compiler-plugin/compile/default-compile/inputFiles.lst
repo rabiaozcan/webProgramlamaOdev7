@@ -1,0 +1,4 @@
+/home/rabiaozcan/eclipse-workspace/jsp-servlet-hibernate-mysql-example/src/main/java/net/javaguides/usermanagement/dao/UserDao.java
+/home/rabiaozcan/eclipse-workspace/jsp-servlet-hibernate-mysql-example/src/main/java/net/javaguides/usermanagement/web/UserServlet.java
+/home/rabiaozcan/eclipse-workspace/jsp-servlet-hibernate-mysql-example/src/main/java/net/javaguides/usermanagement/util/HibernateUtil.java
+/home/rabiaozcan/eclipse-workspace/jsp-servlet-hibernate-mysql-example/src/main/java/net/javaguides/usermanagement/model/User.java

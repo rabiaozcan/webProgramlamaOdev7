@@ -7,7 +7,7 @@ import javax.servlet.*;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
-
+import javax.ws.rs.Path;
 
 import net.javaguides.usermanagement.dao.UserDao;
 import net.javaguides.usermanagement.model.User;

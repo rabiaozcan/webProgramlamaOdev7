@@ -7,7 +7,7 @@
 </head>
 <body>
  <div align="center">
-  <h1>User Management</h1>
+ <h1 >User Management</h1>
         <h2>
          <a href="new">Add New User</a>
          &nbsp;&nbsp;&nbsp;
